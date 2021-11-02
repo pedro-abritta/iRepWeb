@@ -1,0 +1,147 @@
+.login{
+    display: flex;
+    background-color: #121214;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    
+    background-color: #121214;
+    color: white;
+}
+
+.login-logo img{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
+
+.login-title{
+    background-color: #29292e;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+}
+
+.login-title h1{
+    font-family: 'Roboto Slab';    
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+
+.login-title h4{
+    font-family: 'Roboto Slab'; 
+    font-weight: 300;   
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #e1e1e6;
+}
+
+.login-InputEmail{
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.login-InputEmail svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .login-InputEmail input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .login-InputPassword{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+    border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+ }
+
+ .login-InputPassword svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .login-InputPassword input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;  
+ }
+
+ .login-title button{
+     background-color: #202024;
+     color: #eff2f5;
+     font-weight: 800;
+     border-radius: 5px;
+     font-size: 18px;
+     margin-top: 5px;
+     border: none;
+     outline-width: none;
+     width: 42%;
+     height: 40px;
+ }
+
+ .login-title button:hover{
+     background-color: #121214;
+     color: #eff2f5;
+     cursor: pointer;
+ }
+
+
+ .login-title a{
+    display: block;
+    width: 20%;
+    height: 20px;
+    line-height: 20px;
+    padding: 10px 5px;
+    margin-top: 5px;
+    background-color: #202024;
+    color: #eff2f5;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.login-title a:hover{
+    background-color: #121214;
+    color: #eff2f5;
+    cursor: pointer;
+}
+
+ .login-eye{
+    cursor: pointer;
+ }

@@ -1,0 +1,350 @@
+.cadastro{
+    display: flex;
+    background-color: #121214;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;    
+
+    background-color: #121214;
+    color: white;
+}
+
+.cadastro-title{
+    background-color: #29292e;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    padding: 20px;
+    width: 600px;
+    height: 700px;
+}
+
+.cadastro-title h1{
+    font-family: 'Roboto Slab';    
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.cadastro-Voltar a{
+    background-color: #202024;
+    color: #eff2f5;
+    border-radius: 5px;
+    margin-left: 800%;
+    margin-top: 5px;
+    border: none;
+    width: 25%;
+    height: 40px;
+}
+
+.cadastro-Voltar a:hover{
+    background-color: #121214;
+    color: #eff2f5;
+    cursor: pointer;
+}
+
+.cadastro-InputTipo{
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+    border-radius: 5px;
+    padding: 3px;
+    width: 120%;
+    height: 40px;
+}
+
+.cadastro-InputTipo svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputTipo input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+.cadastro-InputNome{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputNome svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputNome input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-InputData{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputData svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputData input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-InputFaculdade{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputFaculdade svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputFaculdade input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-InputPeriodo{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputPeriodo svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputPeriodo input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-InputCidade{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputCidade svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputCidade input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-InputTelefone{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputTelefone svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputTelefone input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+.cadastro-InputEmail{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+}
+
+.cadastro-InputEmail svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputEmail input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-InputPassword{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+    border-radius: 5px;
+    padding: 3px;
+    width: 70%;
+    height: 40px;
+ }
+
+ .cadastro-InputPassword svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputPassword input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;  
+ }
+
+ .cadastro-InputInfo{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1a1a1d;
+     border-radius: 5px;
+    padding: 3px;
+    width: 120%;
+    height: 70px;
+}
+
+.cadastro-InputInfo svg{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+ .cadastro-InputInfo input{
+     background: transparent;
+     width: 100%;
+     outline-width: 0;
+     color: #e1e1e6;
+     border: none;
+     font-size: 17px;
+     margin-left: 10px;
+     margin-right: 10px;
+ }
+
+ .cadastro-title button{
+     background-color: #202024;
+     color: #eff2f5;
+     font-weight: 800;
+     border-radius: 5px;
+     font-size: 18px;
+     margin-top: 5px;
+     border: none;
+     outline-width: none;
+     width: 25%;
+     height: 40px;
+ }
+
+ .cadastro-title button:hover{
+     background-color: #121214;
+     color: #eff2f5;
+     cursor: pointer;
+ }
+
+ .cadastro-eye{
+    cursor: pointer;
+ }
