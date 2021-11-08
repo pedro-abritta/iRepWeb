@@ -16,6 +16,7 @@
 O projeto é um aplicativo onde estudantes universitários podem encontrar repúblicas para morar, da mesma forma que as repúblicas podem encontrar possíveis futuros moradores.<br>
 O usuário poderá optar por criar um perfil pessoal de estudante ou um perfil para sua república (ou ambos). <br>
 Na tela de navegação (que ainda não foi implementada) as repúblicas terão acesso aos perfis dos estudantes cadastrados no app e os estudantes terão acesso aos perfis das repúblicas. <br>
+Aplicação desenvolvida nas linguagens: <a href="https://www.javascript.com/">JavaScript</a>, HTML e CSS.
 
 ## Tecnologias 🛠 
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/) foi utilizado para implementação dos códigos 
