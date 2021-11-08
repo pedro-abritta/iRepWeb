@@ -4,18 +4,15 @@
 
 ## Tópicos 🔖
 
-<!--ts-->
-   * [O projeto](#o-projeto)
-   * [Tecnologias](#tecnologias)
-   * [Interfaces](#interfaces)
-      * [Login](#login)
-      * [Cadastro do estudante](#cadastro-do-estudante)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+- [O Projeto](#o-projeto-)
+- [Tecnologias](#tecnologias)
+- [Interfaces](#interfaces-)
+   - [Login](#login)
+   - [Versão e atualização do PIP](#versão-e-atualização)
+   - [Instalação do Pytest](#instalando-o-pytest)
+   - [Clone](#clonar-o-projeto)
+- [Testes](#testes-%EF%B8%8F%EF%B8%8F)
+- [Arquivos](#arquivos-open_file_folder)
 
 ## O projeto 📈
 O projeto é um aplicativo onde estudantes universitários podem encontrar repúblicas para morar, da mesma forma que as repúblicas podem encontrar possíveis futuros moradores.<br>
