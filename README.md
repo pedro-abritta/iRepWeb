@@ -20,4 +20,4 @@ Na tela de navegação (que ainda não foi implementada) as repúblicas terão a
 - Cadastro da república: <br>![image](https://user-images.githubusercontent.com/73140691/140831499-541297cf-d86e-43d0-bd35-508d9c06eac1.png)
 
  
-<h1> 🚀 Projeto ainda em construção... 🚧</h1>
+<h1 align="center"> 🚀 Projeto ainda em construção... 🚧</h1>
