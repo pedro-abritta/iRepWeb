@@ -8,7 +8,7 @@
 - [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
    - [Login](#login-)
-   - [Versão e atualização do PIP](#versão-e-atualização)
+   - [Cadastro estutante](#cadastro-estudante)
    - [Instalação do Pytest](#instalando-o-pytest)
    - [Clone](#clonar-o-projeto)
 - [Testes](#testes-%EF%B8%8F%EF%B8%8F)
@@ -28,7 +28,7 @@ Na tela de navegação (que ainda não foi implementada) as repúblicas terão a
 
 ## Interfaces 💻
 ### Login: <br> ![image](https://user-images.githubusercontent.com/73140691/140831882-7a19c13f-7d41-463a-8213-4f3073fff736.png)
-### Cadastro do estudante: <br>![image](https://user-images.githubusercontent.com/73140691/140831448-3ffb7799-e65e-4fcc-8ef8-002bf51098e6.png)
+### Cadastro estudante: <br>![image](https://user-images.githubusercontent.com/73140691/140831448-3ffb7799-e65e-4fcc-8ef8-002bf51098e6.png)
 ### Cadastro da república: <br>![image](https://user-images.githubusercontent.com/73140691/140831499-541297cf-d86e-43d0-bd35-508d9c06eac1.png)
 
 
