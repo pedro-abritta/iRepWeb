@@ -10,7 +10,7 @@
    - [Login](#login-)
    - [Cadastro do estudante](#cadastro-do-estudante-)
    - [Cadastro da república](#cadastro-da-republica-)
-- [Teste de back-end](#primeiro-teste-para-implementacao-do-back-end)
+- [Teste de back-end](#teste-back-end)
 
 ## O projeto 📈
 O projeto é um aplicativo onde estudantes universitários podem encontrar repúblicas para morar, da mesma forma que as repúblicas podem encontrar possíveis futuros moradores.<br>
@@ -30,7 +30,7 @@ Na tela de navegação (que ainda não foi implementada) as repúblicas terão a
 ### Cadastro da república: <br>![image](https://user-images.githubusercontent.com/73140691/140831499-541297cf-d86e-43d0-bd35-508d9c06eac1.png)
 
 
-## Primeiro teste para implementação do back-end 💀
+## Teste back-end 💀
 Como pode ser notado ainda estou tendo alguns problemas para aprender e implementar o back-end 😂<br>
 
 ![image](https://user-images.githubusercontent.com/73140691/140832174-e8055b46-ca24-4d34-a5c5-ce0295c8057e.png)
