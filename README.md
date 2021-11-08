@@ -5,7 +5,7 @@
 ## Tópicos 🔖
 
 - [O Projeto](#o-projeto-)
-- [Tecnologias](#tecnologias)
+- [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
    - [Login](#login)
    - [Versão e atualização do PIP](#versão-e-atualização)
