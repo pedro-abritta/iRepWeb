@@ -7,8 +7,8 @@
 - [O Projeto](#o-projeto-)
 - [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
-   - [Login](#login)
-   - [Cadastro do estudante](#cadastro-do-estudante)
+   - [Login](#login-)
+   - [Cadastro do estudante](#cadastro-do-estudante-)
    - [Cadastro da república](#cadastro-da-republica-)
 - [Teste de back-end](#primeiro-teste-para-implementacao-do-back-end)
 
