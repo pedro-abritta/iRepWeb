@@ -4,13 +4,14 @@
 
 ## Tópicos 🔖
 
-- [O Projeto](#o-projeto-)
-- [Tecnologias](#tecnologias-)
-- [Interfaces](#interfaces-)
-   - [Login](#login-)
-   - [Cadastro estutante](#cadastro-estudante-)
-   - [Cadastro república](#cadastro-republica-)
-- [Teste back-end](#ateste-back-end-)
+<p align="center">
+ <a href="#o-projeto">Objetivo</a> •
+ <a href="#roadmap">Roadmap</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
 ## O projeto 📈
 O projeto é um aplicativo onde estudantes universitários podem encontrar repúblicas para morar, da mesma forma que as repúblicas podem encontrar possíveis futuros moradores.<br>
