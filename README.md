@@ -7,10 +7,10 @@
 - [O Projeto](#o-projeto-)
 - [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
-   - [Login](#Login-)
-   - [Cadastro do estudante](#cadastro-do-estudante-)
+   - [Login](#Login)
+   - [Cadastro do estudante](#cadastro-do-estudante)
    - [Cadastro da república](#cadastro-da-republica-)
-- [Teste de back-end](#primeiro-teste-para-implementacao-do-back-end-)
+- [Teste de back-end](#primeiro-teste-para-implementacao-do-back-end)
 
 ## O projeto 📈
 O projeto é um aplicativo onde estudantes universitários podem encontrar repúblicas para morar, da mesma forma que as repúblicas podem encontrar possíveis futuros moradores.<br>
