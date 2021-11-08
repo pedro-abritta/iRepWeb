@@ -7,7 +7,7 @@
 - [O Projeto](#o-projeto-)
 - [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
-   - [Login](#login-)
+   - [Tela de login](#login-do-usuario)
    - [Cadastro estudante](#cadastro-estudante-)
    - [Cadastro república](#cadastro-república-)
 - [Teste back-end](#teste-back-end-)
@@ -26,7 +26,7 @@ Aplicação desenvolvida nas linguagens: <a href="https://www.javascript.com/">J
 
 
 ## Interfaces 💻
-### Login: <br> ![image](https://user-images.githubusercontent.com/73140691/140831882-7a19c13f-7d41-463a-8213-4f3073fff736.png)
+### Login do usuário: <br> ![image](https://user-images.githubusercontent.com/73140691/140831882-7a19c13f-7d41-463a-8213-4f3073fff736.png)
 ### Cadastro estudante: <br>![image](https://user-images.githubusercontent.com/73140691/140831448-3ffb7799-e65e-4fcc-8ef8-002bf51098e6.png)
 ### Cadastro república: <br>![image](https://user-images.githubusercontent.com/73140691/140831499-541297cf-d86e-43d0-bd35-508d9c06eac1.png)
 
