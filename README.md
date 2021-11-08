@@ -5,12 +5,12 @@
 ## Tópicos 🔖
 
 <p align="center">
- <a href="#o-projeto">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#o-projeto">O projeto</a> <br>
+ <a href="#tecnologias">tecnologias</a> <br>
+ <a href="#interfaces">Tecnologias</a> <br>
+ <a href="#login">Contribuição</a> <br>
+ <a href="#cadastro-estudante">Licença</a> <br>
+ <a href="#cadastro-republica">Autor</a>
 </p>
 
 ## O projeto 📈
