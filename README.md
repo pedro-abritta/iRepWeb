@@ -7,7 +7,7 @@
 - [O Projeto](#o-projeto-)
 - [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
-   - [Login](#login-)
+   - [Login](#login)
    - [Cadastro estudante](#cadastro-estudante-)
    - [Cadastro república](#cadastro-república-)
 - [Teste back-end](#teste-back-end-)
