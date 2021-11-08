@@ -9,10 +9,8 @@
 - [Interfaces](#interfaces-)
    - [Login](#login-)
    - [Cadastro estutante](#cadastro-estudante)
-   - [Instalação do Pytest](#instalando-o-pytest)
-   - [Clone](#clonar-o-projeto)
-- [Testes](#testes-%EF%B8%8F%EF%B8%8F)
-- [Arquivos](#arquivos-open_file_folder)
+   - [Cadastro república](#cadastro-republica)
+- [Teste back-end](#ateste-back-end)
 
 ## O projeto 📈
 O projeto é um aplicativo onde estudantes universitários podem encontrar repúblicas para morar, da mesma forma que as repúblicas podem encontrar possíveis futuros moradores.<br>
