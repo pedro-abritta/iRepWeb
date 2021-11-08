@@ -8,7 +8,7 @@
 - [Tecnologias](#tecnologias-)
 - [Interfaces](#interfaces-)
    - [Login](#login-)
-   - [Cadastro estutante](#cadastro-estudante-)
+   - [Cadastro estudante](#cadastro-estudante-)
    - [Cadastro república](#cadastro-republica-)
 - [Teste back-end](#teste-back-end-)
 
