@@ -9,7 +9,7 @@
 - [Interfaces](#interfaces-)
    - [Login](#login-)
    - [Cadastro estudante](#cadastro-estudante-)
-   - [Cadastro república](#cadastro-republica-)
+   - [Cadastro república](#cadastro-república-)
 - [Teste back-end](#teste-back-end-)
 
 ## O projeto 📈
